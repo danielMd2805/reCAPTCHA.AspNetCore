@@ -288,3 +288,5 @@ __pycache__/
 *.xsd.cs
 *.nuspec
 /lib/netcoreapp2.0
+
+.DS_Store
